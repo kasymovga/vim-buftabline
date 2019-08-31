@@ -1,6 +1,6 @@
 *buftabline.txt* Use the tabline to render buffer tabs
 
-		BUFTABLINE  by Aristotle Pagaltzis and Kasymov Grigorii
+		BUFTABLINE  by Aristotle Pagaltzis and Grigorii Kasymov
 
 ==============================================================================
 0. Contents                                                         *buftabline*
