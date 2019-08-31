@@ -2,7 +2,7 @@
 
 <div align="center">
 A well-integrated, low-configuration buffer list that lives in the tabline<br>
-<img src="https://raw.githubusercontent.com/ap/vim-buftabline/26302bf68bd417a97bada3978d4dbff0546f57ac/screenshot.png" width="871" height="585">
+<img src="blob/assets/screenshot.png?raw=true" width="871" height="585">
 </div>
 
 
