@@ -2,7 +2,7 @@
 
 <div align="center">
 A well-integrated, low-configuration buffer list that lives in the tabline<br>
-<img src="blob/assets/screenshot.png?raw=true" width="871" height="585">
+<img src="../assets/screenshot.png?raw=true" width="610" height="475">
 </div>
 
 
